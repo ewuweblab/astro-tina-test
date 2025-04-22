@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "tinacms dev -c \"astro dev\"",
+    "start": "tinacms dev -c \"astro dev\"",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.7.4",
+    "tinacms": "^2.7.5"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.9.5",
+    "@types/node": "^22.14.1"
+  }
+}
